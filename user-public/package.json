@@ -1,0 +1,16 @@
+{
+  "name": "user-public",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Harith Zainudin",
+  "scripts": {
+    "prepare": "cd .. && husky install user-public/.husky"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "husky": "^8.0.3",
+    "lodash": "^4.17.21"
+  }
+}
