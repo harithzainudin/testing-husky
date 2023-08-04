@@ -1,0 +1,13 @@
+{
+  "name": "public-user",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Harith Zainudin",
+  "license": "ISC",
+  "dependencies": {
+    "husky": "^8.0.3",
+    "lodash": "^4.17.21"
+  }
+}
