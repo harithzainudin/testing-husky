@@ -1,4 +1,4 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
-cat commit-linter.js | node --input-type=commonjs
+cat commit-msg-linter.js | node --input-type=commonjs
