@@ -2,3 +2,4 @@
 . "$(dirname -- "$0")/_/husky.sh"
 
 cat commit-msg-linter.js | node --input-type=commonjs
+cat user-profile/.husky/commit-linter.js | node --input-type=commonjs
